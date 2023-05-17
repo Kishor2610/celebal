@@ -1,0 +1,41 @@
+  h1{
+    font-size: 100px;
+    color: #000;
+} 
+
+#para2{
+    font-size: 2em;
+    width: 20;
+    color: #c42626;
+
+}
+ .container{
+    font-size: 2rem;
+} 
+ #para1{
+    font-size: 2em;
+    width: 50ch;
+} 
+
+ *{
+    padding: 0;
+    margin: 0;
+} 
+ .container{
+    border-top: 5px solid blue;
+    border-right: 5px solid blue;
+    border-bottom: 3px solid blue;
+    border-left: 5px solid blue;
+} 
+.container{
+    margin-left: 25px;
+}
+ .div1{
+    padding-bottom: 10px;
+    margin-top: 10px;
+    font: 60px;
+}
+.div2{
+    padding-top: 10px;
+
+} 
